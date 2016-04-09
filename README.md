@@ -1,7 +1,7 @@
 # AndroidXchange
 an app to keep track of lended and borrowed items
 
-the lending part is working fine but trying to display all lended items in a listview crashes the app
+the lending part is working fine but trying to display all lended items in a listview crashes the app . 
 Lended.java handles the displaying part
  
 - DatabaseHelper is a class to aid in using sqli database -
